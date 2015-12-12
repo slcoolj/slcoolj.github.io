@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/slc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://slcoolj.github.io
+  * I am slc (https://keybase.io/slc) on keybase.
+  * I have a public key with fingerprint F8D6 F9C2 4E0F D22A 95AE  B4BA CB99 2B5E 02C1 CB13
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018f880effc5b98e493ee758b9da2eff8950b50d98839055bd27e3d5eaeaa6f5eb0a",
+            "fingerprint": "f8d6f9c24e0fd22a95aeb4bacb992b5e02c1cb13",
+            "host": "keybase.io",
+            "key_id": "cb992b5e02c1cb13",
+            "kid": "01018f880effc5b98e493ee758b9da2eff8950b50d98839055bd27e3d5eaeaa6f5eb0a",
+            "uid": "54fb88d7b9f48408d87f7284c6849919",
+            "username": "slc"
+        },
+        "service": {
+            "hostname": "slcoolj.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1449878630,
+    "expire_in": 157680000,
+    "prev": "839b70afd923850caa00e027711efe7594c26f339df0b7ec7a1b14b017d3ea54",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJZSFVBGL5qm7ZZiogt1MEiwmzOPnMpiGiBjKxIM6yuM2fm6Ln3ds/1
+3nMtEytaqAdfKgyDqHxwD8osbcEoyZA2MCjIlwwtCWkRX8pomWNFLz02L8P8//d/
+830f//3pCZ6kuP5TN/pebS8tint0rybmyQ9Qs0IgNi0XvBVCgI1fLEhZ1PEFLCp4
+BSACEZoQAmaahkoQZAqSGdNVSBDFEq9CpAKiAooglBFQVUIlnclUZZhhrJkqIwAL
+WYJphYpZJByxQg6nNSHVTGRICgMmlSSMVMyIQrBBEJKIyoBkiAYRZT5YYkfdCS6O
+4CjLtmxe4w/fuLx/4P+z7tg4naqYBEKqE2QqUAGQQt3UJagYGlQQEpELjLJICO9h
+HB0NGkJllsALZZbB3ExdE3+bth30ZxdbTkmM/PITjtiObdhB3i5xnHDU64475WEX
+v5cR328mH7FClOfIJ8pYJGrZIcErcqThWC61qCgI6lCTQZbA9oWtCPNZLkLVNQj4
+cf9hZZySGyY6wCZFkgxVYGAMAI9Q10WRmTwjpBiSZsoyoiYgOjN0LBJRIUDUqcyw
+qgiut9KQzbk1rhMXu7as4hB2YhEmVHbd3TnBE5fkmTQx3l0wT1Ji8p+1a/4++Yfz
+sKspp3fdibMbOhO/C20dhUdidYHVtSczKxrbhzuuLFoduFi1pXFBYV6TJzU9Y2jl
+g763p2I7apwzP5ZlpHyrntY5/aY/a45n84Tjn29nHxzJqeusfv7shF/d+HRy+wUw
+ceHcqiPv13enng62xF8abtW0aFFAacv9WHC9sWfKpobU7PrdIyl4SWZ9yuMV265t
+zP06MLYi/VaDv+vqaKZvcWlT4tru8xmH6pbs12YVvNg1dGzeazJj/t7m0bGE8tBU
++fByf8fpKjqQXNu7tHXmhv60D62zq4/2rHqaP8vTf+fJYELfy4E1c3orO9619oy8
++bTywMO2Ie/drefSWoyBg6V5g5e/xP8E0h9FSQ==
+=XMLA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/slc
+
+==================================================================
+
