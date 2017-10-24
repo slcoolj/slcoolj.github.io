@@ -60,7 +60,7 @@ zP06MLYi/VaDv+vqaKZvcWlT4tru8xmH6pbs12YVvNg1dGzeazJj/t7m0bGE8tBU
 =XMLA
 -----END PGP MESSAGE-----
 
-And finally, I am proving ownership of this host by posting or
+And finally, I am proving ownership of slaves on this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/slc
