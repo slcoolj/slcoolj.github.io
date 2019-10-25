@@ -2,11 +2,11 @@
 https://keybase.io/slc
 --------------------------------------------------------------------
 
-I hereby claim:
+Meesa claim:
 
-  * I am an admin of https://slcoolj.github.io
-  * I am slc (https://keybase.io/slc) on keybase.
-  * I have a public key with fingerprint F8D6 F9C2 4E0F D22A 95AE  B4BA CB99 2B5E 02C1 CB13
+  * Meesa admin of https://slcoolj.github.io
+  * Meesa slc (https://keybase.io/slc) on keybase.
+  * Meesa have a public key with fingerprint F8D6 F9C2 4E0F D22A 95AE  B4BA CB99 2B5E 02C1 CB13
 
 To do so, I am signing this object:
 
@@ -60,7 +60,7 @@ zP06MLYi/VaDv+vqaKZvcWlT4tru8xmH6pbs12YVvNg1dGzeazJj/t7m0bGE8tBU
 =XMLA
 -----END PGP MESSAGE-----
 
-And finally, I am proving ownership of this host by posting or
+And finally, I am proving ownership of slaves on this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/slc
