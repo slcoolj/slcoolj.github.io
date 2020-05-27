@@ -1,0 +1,12 @@
+body {
+   text-align: center;
+}
+
+p {
+   font-size: 1em;
+}
+
+div.footer {
+   font-size: 0.75em;
+   padding-top: 50px;
+}
